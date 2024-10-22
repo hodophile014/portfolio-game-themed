@@ -14,7 +14,7 @@ function Creations() {
       {Projects.map((items,index)=>(
         <div key={index} className='bg-white bg-opacity-20 backdrop-blur-lg rounded-lg shadow-lg p-10 max-w-md flex flex-col'>
           <div className='text-2xl text-green-400 hover:text-2xl text-center'><h1>{items.name}</h1></div>
-          <div className='mx-4 border-2 border-green-400 border-dotted'><img src="portfolio/src/Assests/Screenshot 2024-10-19 174513.png" alt={items.name}/></div>
+          <div className='mx-4 border-2 border-green-400 border-dotted'><img src={items.image} alt={items.name}/></div>
           <div>
             <p className='text-white text-xl text-center'>{items.about}</p>
           </div>

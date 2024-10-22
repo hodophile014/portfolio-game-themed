@@ -14,7 +14,7 @@ function Navbar() {
     <div className='container px-4 mx-auto relative text-sm'>
       <div className='flex justify-between items-center'>
       <div className='flex items-center flex-shrink-0'>
-        <img className='h-10 mr-2 w-10 rounded-full' src="" alt=""/>
+        <img className='h-10 mr-2 w-10 rounded-full' src="https://media.licdn.com/dms/image/v2/D5603AQGAaGAhcA8LMg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719037088016?e=1735171200&v=beta&t=qZweGrpwKEONrlDGWy9cwyrf6gD5lrp1Y-hcBmIZEPM" alt=""/>
         <span className='text-xl tracking-tight'>Himanshi Gupta</span>
       </div>
       <ul className='hidden lg:flex ml-14 space-x-12'>

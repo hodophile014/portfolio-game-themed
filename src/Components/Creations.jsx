@@ -6,7 +6,7 @@ import { FaArrowAltCircleRight } from "react-icons/fa";
 function Creations() {
   
    return(
-   <div className="bg-gray-900 flex justify-center items-center h-full lg:h-screen flex-col" style={{fontFamily:"Pixelify Sans"}}>
+   <div className="bg-gray-900 flex justify-center items-center h-full lg:h-full flex-col" style={{fontFamily:"Pixelify Sans"}}>
     <div className='mt-10'>
       <h1 className='text-4xl text-center text-green-400'>CREATIONS</h1>
     </div>

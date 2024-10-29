@@ -38,7 +38,7 @@ export const Projects = [
         skills: ["REACTJS","TAILWINDCSS","REACT ROUTER,ContextAPI"],
         about: ["The one which you are seeing right now"],
         url: "",
-        image: ""
+        image: "Screenshot 2024-10-29 163836.png"
         
 
     }

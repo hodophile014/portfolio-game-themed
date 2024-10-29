@@ -6,7 +6,7 @@ function Hero() {
   return (
     <div className='flex flex-col place-content-between bg-gray-900 h-max w-max'style={{fontFamily:"Pixelify Sans"}}>
         <div className='container  mx-4'>
-            <img className="h-[150px] w-[150px] m-4" src="Snapchat-128323993.png" alt="himanshi"></img>
+            <img className="h-[100px] w-[100px] m-4 rounded-full" src="Snapchat-128323993.png" alt="himanshi"></img>
         </div>
         <div className='m-4 flex flex-col'>
             <span><h3 className='text-white mt-5'>NAME</h3>
